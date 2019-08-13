@@ -1,6 +1,6 @@
-## Ojet Starter Kit
+## OJET Starter Kit
 
-A boilerplate to start practicing Ojet v5
+A boilerplate to start practicing Ojet v7
 
 ### Workflow
 ```bash
