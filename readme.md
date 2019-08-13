@@ -2,15 +2,11 @@
 
 A boilerplate to start practicing Ojet v5
 
-### Install
+### Workflow
 ```bash
+# install
 yarn install
-```
 
-### Install
-```bash
-yarn install
+# run
+npm start
 ```
-
-### References
-[OJET References](https://github.com/anoopmd/training-toc#ojet-references)
