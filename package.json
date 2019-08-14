@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Oracle JavaScript Extension Toolkit(JET) Starter Kit",
   "dependencies": {
-    "@oracle/oraclejet": "~5.0.0",
+    "@oracle/oraclejet": "~7.0.0",
     "lodash": "^4.17.5"
   },
   "scripts": {
